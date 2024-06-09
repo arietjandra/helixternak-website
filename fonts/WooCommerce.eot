@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html lang="en-US" data-df data-container="1205" data-xl="2" data-admin-bar="0" prefix="og: https://ogp.me/ns#" class="elementor-kit-17097">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="//gmpg.org/xfn/11">
+<link rel="pingback" href="https://helixternak.com/xmlrpc.php">
+
+<script data-cfasync="false" data-pagespeed-no-defer>
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+	const gtm4wp_use_sku_instead = false;
+	const gtm4wp_currency = 'IDR';
+	const gtm4wp_product_per_impression = 10;
+	const gtm4wp_clear_ecommerce = false;
+</script>
+
+<script id="google_gtagjs-js-consent-mode" type="afd9ab4008c71c618270cc23-text/javascript">
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('consent', 'default', {"ad_personalization":"denied","ad_storage":"denied","ad_user_data":"denied","analytics_storage":"denied","region":["AT","BE","BG","CY","CZ","DE","DK","EE","ES","FI","FR","GB","GR","HR","HU","IE","IS","IT","LI","LT","LU","LV","MT","NL","NO","PL","PT","RO","SE","SI","SK"],"wait_for_update":500});
+window._googlesitekitConsentCategoryMap = {"statistics":["analytics_storage"],"marketing":["ad_storage","ad_user_data","ad_personalization"]};
+( function () {
+	document.addEventListener(
+		'wp_listen_for_consent_change',
+		function ( event ) {
+			if ( event.detail ) {
+				var consentParameters = {};
+				var hasConsentParameters = false;
+				for ( var category in event.detail ) {
+					if ( window._googlesitekitConsentCategoryMap[ category ] ) {
+						var status = event.detail[ category ];
+						var mappedStatus =
+							status === 'allow' ? 'granted' : 'denied';
+						var parameters =
+							window._googlesitekitConsentCategoryMap[ category ];
+						for ( var i = 0; i < parameters.length; i++ ) {
+							consentParameters[ parameters[ i ] ] = mappedStatus;
+						}
+						hasConsentParameters = !! parameters.length;
+					}
+				}
+				if ( hasConsentParameters ) {
+					gtag( 'consent', 'update', consentParameters );
+				}
+			}
+		}
+	);
+
+	function updateGrantedConsent() {
+		if ( ! ( window.wp_consent_type || window.wp_fallback_consent_type ) ) {
+			return;
+		}
+		var consentParameters = {};
+		var hasConsentParameters = false;
+		for ( var category in window._googlesitekitConsentCategoryMap ) {
+			if ( window.wp_has_consent && window.wp_has_consent( category ) ) {
+				var parameters =
+					window._googlesitekitConsentCategoryMap[ category ];
+				for ( var i = 0; i < parameters.length; i++ ) {
+					consentParameters[ parameters[ i ] ] = 'granted';
+				}
+				hasConsentParameters =
+					hasConsentParameters || !! parameters.length;
+			}
+		}
+		if ( hasConsentParameters ) {
+			gtag( 'consent', 'update', consentParameters );
+		}
+	}
+	document.addEventListener(
+		'wp_consent_type_defined',
+		updateGrantedConsent
+	);
+	document.addEventListener( 'DOMContentLoaded', function () {
+		if ( ! window.waitfor_consent_hook ) {
+			updateGrantedConsent();
+		}
+	} );
+} )();
+</script>
+
+
+<title>Page Not Found - Helix Alat Ternak</title>
+<meta name="robots" content="follow, noindex" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Page Not Found - Helix Alat Ternak" />
+<meta property="og:site_name" content="Helix Alat Ternak" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Page Not Found - Helix Alat Ternak" />
+<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://helixternak.com/#organization","name":"Arie Tjandra"},{"@type":"WebSite","@id":"https://helixternak.com/#website","url":"https://helixternak.com","name":"Helix Alat Ternak","publisher":{"@id":"https://helixternak.com/#organization"},"inLanguage":"en-US"},{"@type":"WebPage","@id":"#webpage","url":"","name":"Page Not Found - Helix Alat Ternak","isPartOf":{"@id":"https://helixternak.com/#website"},"inLanguage":"en-US"}]}</script>
+
+<style id="rank-math-toc-block-style-inline-css" type="text/css">
+.wp-block-rank-math-toc-block nav ol{counter-reset:item}.wp-block-rank-math-toc-block nav ol li{display:block}.wp-block-rank-math-toc-block nav ol li:before{content:counters(item, ".") ". ";counter-increment:item}
+
+</style>
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<link rel="stylesheet" id="biteship-css" href="https://helixternak.com/wp-content/plugins/biteship/public/css/biteship-public.css?ver=3.0.2" type="text/css" media="all" />
+<link rel="stylesheet" id="jquery_uid-css" href="https://code.jquery.com/ui/1.12.0/themes/smoothness/jquery-ui.css?ver=1.12.0" type="text/css" media="all" />
+<style id="woocommerce-inline-inline-css" type="text/css">
+.woocommerce form .form-row .required { visibility: visible; }
+.woocommerce form .form-row abbr.required { visibility: visible; }
+</style>
+<link rel="stylesheet" id="reycore-nsl-styles-css" href="https://helixternak.com/wp-content/plugins/rey-core/inc/compatibility/nextend-social-login/style.css?ver=2.9.1" type="text/css" media="all" />
+<link rel="stylesheet" id="elementor-frontend-css" href="https://helixternak.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.21.8" type="text/css" media="all" />
+<link id="rey-hs-css" type="text/css" href="https://helixternak.com/wp-content/uploads/rey/hs-8b1aac16cb.css?ver=2.9.1.1716629377" rel="stylesheet" media="all" />
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="afd9ab4008c71c618270cc23-|49"></script><link id="rey-ds-css" type="text/css" href="https://helixternak.com/wp-content/uploads/rey/ds-ae6f94572e.css?ver=2.9.1.1715800091" data-noptimize data-no-optimize="1" data-pagespeed-no-defer data-pagespeed-no-transform data-minify="1" rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet';" media="all" />
+<noscript><link rel="stylesheet" href="https://helixternak.com/wp-content/uploads/rey/ds-ae6f94572e.css" data-no-minify="1"></noscript>
+<link rel="stylesheet" id="swiper-css" href="https://helixternak.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5" type="text/css" media="all" />
+<link rel="stylesheet" id="elementor-post-17097-css" href="https://helixternak.com/wp-content/uploads/elementor/css/post-17097.css?ver=1716739384" type="text/css" media="all" />
+<link rel="stylesheet" id="elementor-pro-css" href="https://helixternak.com/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.21.3" type="text/css" media="all" />
+<link rel="stylesheet" id="elementor-post-13105-css" href="https://helixternak.com/wp-content/uploads/elementor/css/post-13105.css?ver=1716739384" type="text/css" media="all" />
+<link rel="stylesheet" id="elementor-post-10958-css" href="https://helixternak.com/wp-content/uploads/elementor/css/post-10958.css?ver=1716739384" type="text/css" media="all" />
+<link rel="stylesheet" id="e-woocommerce-notices-css" href="https://helixternak.com/wp-content/plugins/elementor-pro/assets/css/woocommerce-notices.min.css?ver=3.21.3" type="text/css" media="all" />
+<link rel="stylesheet" id="elementor-post-14733-css" href="https://helixternak.com/wp-content/uploads/elementor/css/post-14733.css?ver=1716739384" type="text/css" media="all" />
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="afd9ab4008c71c618270cc23-|49"></script><link rel="stylesheet" onload="this.onload=null;this.media='all';" media="print" data-noptimize data-no-optimize="1" data-pagespeed-no-defer data-pagespeed-no-transform data-minify="1" data-no-rel="stylesheet" id="elementor-post-14726-css" href="https://helixternak.com/wp-content/uploads/elementor/css/post-14726.css?ver=1716739384" type="text/css" data-media="all" />
+<noscript><link rel='stylesheet' data-noptimize="" data-no-optimize="1" data-pagespeed-no-defer="" data-pagespeed-no-transform="" data-minify="1" data-id='elementor-post-14726-css' href='https://helixternak.com/wp-content/uploads/elementor/css/post-14726.css?ver=1716739384' data-type='text/css' data-media='all' />
+</noscript><script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="afd9ab4008c71c618270cc23-|49"></script><link rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet';" media="all" data-no-rel="stylesheet" id="rey-wp-style-child-css" href="https://helixternak.com/wp-content/themes/rey-child/style.css?ver=1.0.0" type="text/css" data-media="all" />
+<noscript><link rel='stylesheet'  data-id='rey-wp-style-child-css' href='https://helixternak.com/wp-content/themes/rey-child/style.css?ver=1.0.0' data-type='text/css' data-media='all' />
+</noscript><link rel="stylesheet" id="google-fonts-1-css" href="https://fonts.googleapis.com/css?family=Roboto+Condensed%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Flex%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=6.5.4" type="text/css" media="all" />
+ <script type="afd9ab4008c71c618270cc23-text/javascript">
+            /* <![CDATA[ */
+            var rcewpp = {
+                "ajax_url":"https://helixternak.com/wp-admin/admin-ajax.php",
+                "nonce": "76c5cb37cd",
+                "home_url": "https://helixternak.com/",
+                "settings_icon": 'https://helixternak.com/wp-content/plugins/export-wp-page-to-static-html/admin/images/settings.png',
+                "settings_hover_icon": 'https://helixternak.com/wp-content/plugins/export-wp-page-to-static-html/admin/images/settings_hover.png'
+            };
+            /* ]]\> */
+        </script>
+<script type="afd9ab4008c71c618270cc23-text/javascript">
+            window._nslDOMReady = function (callback) {
+                if ( document.readyState === "complete" || document.readyState === "interactive" ) {
+                    callback();
+                } else {
+                    document.addEventListener( "DOMContentLoaded", callback );
+                }
+            };
+            </script><script type="afd9ab4008c71c618270cc23-text/javascript" id="wfco-utm-tracking-js-extra">
+/* <![CDATA[ */
+var wffnUtm = {"utc_offset":"420","site_url":"https:\/\/helixternak.com","genericParamEvents":"{\"domain\":\"helixternak.com\",\"user_roles\":\"guest\",\"plugin\":\"Funnel Builder\"}","cookieKeys":["flt","timezone","is_mobile","browser","fbclid","gclid","referrer","fl_url"]};
+/* ]]> */
+</script>
+<script type="afd9ab4008c71c618270cc23-text/javascript" src="https://helixternak.com/wp-content/plugins/wp-marketing-automations/woofunnels/assets/js/utm-tracker.min.js?ver=1.10.12.10" id="wfco-utm-tracking-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="afd9ab4008c71c618270cc23-text/javascript" src="https://helixternak.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="afd9ab4008c71c618270cc23-text/javascript" id="biteship-js-extra">
+/* <![CDATA[ */
+var phpVars = {"theme":"rey","checkoutType":"smartsearch","apiKey":"NFun\\vNG8<L]u>PZ;N8y]~gIaKHH8G~~^umZUB`","listCourier":["jne","jnt","anteraja"],"biteshipBaseUrl":"https:\/\/api.biteship.com","biteshipLicenseKey":"","biteshipLicenseKeyType":"","shouldUseDistricPostalCode":"1","shouldUseMapModal":"1","trackingPageUrl":"https:\/\/dashboard.biteship.com\/track-radjaternak","trackingPageIsactive":"1","multipleOriginsIsactive":"1","biteshipNonce":"5b80050729","userSession":{"clearCache":1,"coordinate":"","postcode":""}};
+/* ]]> */
+</script>
+<script type="afd9ab4008c71c618270cc23-text/javascript" src="https://helixternak.com/wp-content/plugins/biteship/public/js/biteship-public.js?ver=3.0.2-c607a8ec3bf640d99967d767b0408359" id="biteship-js"></script>
+<script type="afd9ab4008c71c618270cc23-text/javascript" src="https://helixternak.com/wp-content/plugins/biteship/public/js/jquery-ui.min.js?ver=3.0.2" id="biteship_jquery_ui-js"></script>
+<script type="afd9ab4008c71c618270cc23-text/javascript" id="wffn-tracking-js-extra">
+/* <![CDATA[ */
+var wffnTracking = {"pixel":{"id":"765145925734205","settings":{"page_view":"1"},"data":[],"conversion_api":true,"fb_advanced":[]},"ga":{"id":"G-9W5DMZZ3CR","settings":{"page_view":"1"},"data":[]},"gad":{"id":"","settings":{"page_view":"1"},"data":[]},"tiktok":{"id":"","settings":{"page_view":"1"},"data":[],"advanced":[]},"pint":{"id":"","settings":{"page_view":"1"},"data":[]},"snapchat":{"id":"","settings":{"page_view":"1","user_email":""},"data":[]},"ajax_endpoint":"https:\/\/helixternak.com\/wp-admin\/admin-ajax.php","pending_events":[],"should_render":"1"};
+/* ]]> */
+</script>
+<script type="afd9ab4008c71c618270cc23-text/javascript" src="https://helixternak.com/wp-content/plugins/funnel-builder/assets/live/js/tracks.min.js?ver=3.3.1" id="wffn-tracking-js"></script>
+
+
+<script type="afd9ab4008c71c618270cc23-text/javascript" src="https://www.googletagmanager.com/gtag/js?id=GT-5TCMHXGF" id="google_gtagjs-js" async></script>
+<script type="afd9ab4008c71c618270cc23-text/javascript" id="google_gtagjs-js-after">
+/* <![CDATA[ */
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag("set","linker",{"domains":["helixternak.com"]});
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "GT-5TCMHXGF");
+/* ]]> */
+</script>
+
+<link rel="https://api.w.org/" href="https://helixternak.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://helixternak.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.5.4" />
+<meta name="generator" content="Site Kit by Google 1.128.0" />
+
+
+<script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">
+	var dataLayer_content = {"pagePostType":"404-error"};
+	dataLayer.push( dataLayer_content );
+</script>
+<script type="afd9ab4008c71c618270cc23-text/javascript">
+	console.warn && console.warn("[GTM4WP] Google Tag Manager container code placement set to OFF !!!");
+	console.warn && console.warn("[GTM4WP] Data layer codes are active but GTM container must be loaded using custom coding !!!");
+</script>
+ <noscript><style>
+		.woocommerce ul.products li.product.is-animated-entry {opacity: 1;transform: none;}
+		.woocommerce div.product .woocommerce-product-gallery:after {display: none;}
+		.woocommerce div.product .woocommerce-product-gallery .woocommerce-product-gallery__wrapper {opacity: 1}
+	</style></noscript>
+<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+
+<meta name="google-adsense-platform-account" content="ca-host-pub-2644536267352236">
+<meta name="google-adsense-platform-domain" content="sitekit.withgoogle.com">
+
+<meta name="generator" content="Elementor 3.21.8; features: e_optimized_assets_loading, e_optimized_css_loading, e_font_icon_svg, e_lazyload; settings: css_print_method-external, google_font-enabled, font_display-auto">
+
+<script type="afd9ab4008c71c618270cc23-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-55CFNQCH');</script>
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9W5DMZZ3CR" type="afd9ab4008c71c618270cc23-text/javascript"></script>
+<script type="afd9ab4008c71c618270cc23-text/javascript">
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-9W5DMZZ3CR');
+</script>
+<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+<meta name="theme-color" content="#FFFFFF">
+<link rel="icon" href="https://helixternak.com/wp-content/uploads/2024/05/cropped-512-512-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://helixternak.com/wp-content/uploads/2024/05/cropped-512-512-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://helixternak.com/wp-content/uploads/2024/05/cropped-512-512-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://helixternak.com/wp-content/uploads/2024/05/cropped-512-512-1-270x270.png" />
+<style type="text/css" id="wp-custom-css">
+			.block-image.elementor-widget-image a {
+	display:block;
+}
+
+
+		</style>
+<style id="reycore-inline-styles" data-noptimize data-no-optimize="1" data-pagespeed-no-defer data-pagespeed-no-transform data-minify="1">:root{--container-max-width:1205px;--rey-container-spacing:0px;--main-gutter-size:0px;--content-padding-top:50px;--content-padding-bottom:50px;--site-padding-top:10px;--site-padding-right:10px;--site-padding-bottom:10px;--site-padding-left:10px;--container-default-padding-top:10px;--container-default-padding-bottom:10px;--body-bg-color:var(--e-global-color-b103f2b);--link-color:var(--e-global-color-primary);--link-color-hover:var(--e-global-color-accent);--neutral-hue:210;--blog-columns:4;--post-width:1200px;--post-align-wide-size:25vw;--post-content-links-color:var(--e-global-color-55e2c94);--post-content-links-hover-color:var(--e-global-color-primary);--scroll-top-bottom:10vh;--search-bg-color:#0a0a0a;--search-text-color:#ffffff;--woocommerce-products-gutter:30px;--woocommerce-sidebar-size:16%;--woocommerce-thumbnails-padding-top:0px;--woocommerce-thumbnails-padding-right:0px;--woocommerce-thumbnails-padding-bottom:0px;--woocommerce-thumbnails-padding-left:0px;--woocommerce-pdp-top:30px;--woocommerce-summary-size:40%;--woocommerce-summary-padding:0px;--woocommerce-summary-bgcolor:#ffffff;--woocommerce-fullscreen-top-padding-anim:100px;--woocommerce-gallery-aspect-ratio:1;--star-rating-color:#ff4545;}.woocommerce ul.products{--woocommerce-loop-inner-padding:0px;--woocommerce-loop-border-size:0px;}.woocommerce ul.products li.product{--components-spacing:10px;}.--fixed-summary{--woocommerce-fixedsummary-offset:30px;}div.product p.stock.in-stock, li.product .rey-loopStock.in-stock{color:var(--e-global-color-text);}div.product p.stock.in-stock.low-stock, li.product .rey-loopStock.in-stock.low-stock{color:#ff0000;}div.product p.stock.out-of-stock, li.product .rey-loopStock.out-of-stock{color:var(--e-global-color-text);}div.product p.stock.available-on-backorder, li.product .rey-loopStock.available-on-backorder{color:var(--e-global-color-text);}.woocommerce .rey-cartBtnQty{--accent-text-color:#ffffff;--accent-color:var(--e-global-color-55e2c94);}.woocommerce .rey-cartBtnQty .button, .woocommerce .rey-cartBtnQty .btn{--accent-text-hover-color:#ffffff;--accent-hover-color:var(--e-global-color-primary);}.woocommerce-store-notice .woocommerce-store-notice-content{min-height:32px;}@media (min-width: 768px) and (max-width: 1025px){:root{--rey-container-spacing:20px;--main-gutter-size:20px;--blog-columns:2;--scroll-top-bottom:10vh;--woocommerce-products-gutter:10px;--woocommerce-thumbnails-padding-top:0px;--woocommerce-thumbnails-padding-right:0px;--woocommerce-thumbnails-padding-bottom:0px;--woocommerce-thumbnails-padding-left:0px;--woocommerce-summary-padding:0px;}}@media (max-width: 767px){:root{--rey-container-spacing:10px;--main-gutter-size:10px;--blog-columns:1;--scroll-top-bottom:1vh;--woocommerce-products-gutter:10px;--woocommerce-thumbnails-padding-top:0px;--woocommerce-thumbnails-padding-right:0px;--woocommerce-thumbnails-padding-bottom:0px;--woocommerce-thumbnails-padding-left:0px;--woocommerce-summary-padding:0px;}}@media (max-width: 1024px) {			:root {				--nav-breakpoint-desktop: none;				--nav-breakpoint-mobile: flex;			}		} :root{--link-color-hover:var(--e-global-color-accent);--accent-color:var(--e-global-color-primary);--accent-hover-color:var(--e-global-color-1442c28);--accent-text-color:var(--e-global-color-d53b3e9);--accent-text-hover-color:var(--e-global-color-19b1fd0);} :root{ --woocommerce-grid-columns:3; } @media(min-width: 768px) and (max-width: 1024px){:root{ --woocommerce-grid-columns:3; }} @media(max-width: 767px){:root{ --woocommerce-grid-columns:2; }}     </style><style id="rey-lazy-bg">.rey-js .elementor-element.rey-lazyBg, .rey-js .elementor-element.rey-lazyBg > .elementor-widget-container, .rey-js .elementor-element.rey-lazyBg > .elementor-widget-wrap { background-image: none !important; }</style></head>
+<body class="error404 wp-custom-logo theme-rey woocommerce-no-js rey-no-js ltr --fixed-header e-wc-error-notice e-wc-message-notice e-wc-info-notice elementor-default elementor-kit-17097 rey-cwidth--px elementor-opt r-notices" data-id="0" itemtype="https://schema.org/WebPage" itemscope="itemscope">
+<script type="afd9ab4008c71c618270cc23-text/javascript" id="rey-no-js" data-noptimize data-no-optimize="1" data-no-defer="1">
+		document.body.classList.remove('rey-no-js');document.body.classList.add('rey-js');
+	</script> <script type="afd9ab4008c71c618270cc23-text/javascript" id="rey-instant-js" data-noptimize data-no-optimize="1" data-no-defer="1" data-pagespeed-no-defer>
+			(function(){
+				if( ! window.matchMedia("(max-width: 1024px)").matches && ("IntersectionObserver" in window) ){
+					var io = new IntersectionObserver(entries => {
+						window.reyScrollbarWidth = window.innerWidth - entries[0].boundingClientRect.width;
+						document.documentElement.style.setProperty('--scrollbar-width', window.reyScrollbarWidth + "px");
+						io.disconnect();
+					});
+					io.observe(document.documentElement);
+				}
+				let cw = parseInt(document.documentElement.getAttribute('data-container') || 1440);
+				const sxl = function () {
+					let xl;
+					if ( window.matchMedia('(min-width: 1025px) and (max-width: ' + cw + 'px)').matches ) xl = 1; // 1440px - 1025px
+					else if ( window.matchMedia('(min-width: ' + (cw + 1) + 'px)').matches ) xl = 2; // +1440px
+					document.documentElement.setAttribute('data-xl', xl || 0);
+				};
+				sxl(); window.addEventListener('resize', sxl);
+			})();
+		</script>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-55CFNQCH"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<a href="#content" class="skip-link screen-reader-text">Skip to content</a>
+<div id="page" class="rey-siteWrapper ">
+<div class="rey-overlay rey-overlay--site" style="opacity:0;"></div>
+<div id="content" class="rey-siteContent ">
+<div class="rey-page404 ">
+<div class="container">
+<header class="rey-pageHeader">
+<h1 class="rey-pageTitle">404</h1>
+<span class="rey-pageSubtitle">Page Not Found</span>
+</header>
+<div class="rey-pageContent">
+<p>It looks like nothing was found at this location. Try another link or click the button below.</p>
+<a class="btn btn-line-active" href="#" onclick="if (!window.__cfRLUnblockHandlers) return false; window.history.back();" data-cf-modified-afd9ab4008c71c618270cc23->GO BACK</a>
+<a class="btn btn-line-active" href="https://helixternak.com/">HOME</a>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+
+<a href="#scrolltotop" class="rey-scrollTop --style2 --pos-right" data-entrance="0" data-lazy-hidden><span class="rey-scrollTop-text">TOP</span><div class="rey-arrowSvg rey-arrowSvg--left "><svg aria-hidden="true" role="img" id="rey-icon-chevron-666528bb4cdf8" class="rey-icon rey-icon-chevron  " viewbox="0 0 40 64"><polygon fill="currentColor" points="39.5 32 6.83 64 0.5 57.38 26.76 32 0.5 6.62 6.83 0"></polygon></svg></div></a>
+<script id="mcjs" type="afd9ab4008c71c618270cc23-text/javascript">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/cd3848c0b8dfa7fcba7f22b8b/f07a92a64bf19847d583b6e0e.js");</script> <div data-elementor-type="popup" data-elementor-id="13105" class="elementor elementor-13105 elementor-location-popup" data-elementor-settings="{&quot;a11y_navigation&quot;:&quot;yes&quot;,&quot;triggers&quot;:[],&quot;timing&quot;:[]}" data-elementor-post-type="elementor_library">
+<div class="e-con-top elementor-element elementor-element-0a9f963 e-flex e-con-boxed e-con e-parent" data-id="0a9f963" data-element_type="container">
+<div class="e-con-inner">
+<div class="elementor-element elementor-element-4e4b4ad e-con-full e-flex e-con e-child" data-id="4e4b4ad" data-element_type="container">
+<div class="elementor-element elementor-element-92e6223 elementor-widget elementor-widget-heading" data-id="92e6223" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<style>/*! elementor - v3.21.0 - 26-05-2024 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">DISCOUNT UP TO 30%</h2> </div>
+</div>
+<div class="elementor-element elementor-element-617b7d7 elementor-view-default elementor-widget elementor-widget-icon" data-id="617b7d7" data-element_type="widget" data-widget_type="icon.default">
+<div class="elementor-widget-container">
+<div class="elementor-icon-wrapper">
+<div class="elementor-icon">
+<svg aria-hidden="true" class="e-font-icon-svg e-fas-star" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path></svg> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div data-elementor-type="popup" data-elementor-id="10958" class="elementor elementor-10958 elementor-location-popup" data-elementor-settings="{&quot;a11y_navigation&quot;:&quot;yes&quot;,&quot;triggers&quot;:[],&quot;timing&quot;:[]}" data-elementor-post-type="elementor_library">
+<div class="e-con-top elementor-element elementor-element-dc0b9f3 e-con-full e-flex e-con e-parent" data-id="dc0b9f3" data-element_type="container" data-settings="{&quot;position&quot;:&quot;absolute&quot;}">
+</div>
+</div>
+<script type="afd9ab4008c71c618270cc23-text/javascript">
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+<script type="afd9ab4008c71c618270cc23-text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+<script type="afd9ab4008c71c618270cc23-text/javascript" id="reystyles-loaded">
+ window.reyStyles=[["rey-theme","rey-page404","rey-buttons","rey-icon","reycore-elementor-frontend","reycore-elementor-container-"],["rey-theme-ext","reycore-elementor-frontend-deferred","rey-wc-elementor","reycore-elementor-epro","reycore-module-scrolltotop"]]; 
+</script><script type="afd9ab4008c71c618270cc23-text/javascript" id="reyscripts-loaded">
+ window.reyScripts=["rey-script","reycore-script","reycore-module-elementor-lazy-bg","reycore-module-scrolltotop","reycore-elementor-frontend"]; 
+</script><script type="afd9ab4008c71c618270cc23-text/javascript" id="rey-script-js-extra" data-noptimize data-no-optimize="1" data-no-defer="1" data-pagespeed-no-defer>var reyParams = {"theme_js_params":{"menu_delays":true,"menu_hover_overlay":"show","menu_mobile_overlay":"show","menu_hover_timer":500,"menu_items_hover_timer":100,"menu_items_leave_timer":200,"menu_items_open_event":"hover","embed_responsive":{"src":"https:\/\/helixternak.com\/wp-content\/themes\/rey\/assets\/css\/components\/embed-responsive\/embed-responsive.css","elements":[".rey-postContent p > iframe",".rey-wcPanel--description iframe[src*=\"youtu\"]",".woocommerce-Tabs-panel--description iframe[src*=\"youtu\"]",".woocommerce-product-details__short-description iframe[src*=\"youtu\"]"]},"menu_badges_styles":"https:\/\/helixternak.com\/wp-content\/themes\/rey\/assets\/css\/components\/header-menu\/menu-badges.css"},"lazy_assets":{"a[href^='#offcanvas-']":{"styles":{"reycore-offcanvas-panels":"https:\/\/helixternak.com\/wp-content\/plugins\/rey-core\/inc\/modules\/offcanvas-panels\/style.css","rey-simple-scrollbar":"https:\/\/helixternak.com\/wp-content\/plugins\/rey-core\/assets\/css\/lib\/simple-scrollbar.css"},"scripts":{"reycore-offcanvas-panels":"https:\/\/helixternak.com\/wp-content\/plugins\/rey-core\/inc\/modules\/offcanvas-panels\/script.js","animejs":"https:\/\/helixternak.com\/wp-content\/plugins\/rey-core\/assets\/js\/lib\/anime.min.js","rey-simple-scrollbar":"https:\/\/helixternak.com\/wp-content\/plugins\/rey-core\/assets\/js\/lib\/simple-scrollbar.js","reycore-elementor-frontend":"https:\/\/helixternak.com\/wp-content\/plugins\/rey-core\/assets\/js\/elementor\/general.js"}},"[data-reymodal],[data-rey-inline-modal]":{"styles":{"reycore-modals":"https:\/\/helixternak.com\/wp-content\/plugins\/rey-core\/assets\/css\/general-components\/modals\/modals.css"},"scripts":{"reycore-modals":"https:\/\/helixternak.com\/wp-content\/plugins\/rey-core\/assets\/js\/general\/c-modal.js"}}},"log_events":"","debug":"","ajaxurl":"https:\/\/helixternak.com\/wp-admin\/admin-ajax.php","ajax_nonce":"7a41aeea9e","preloader_timeout":"","v":"062af747c7b5","wpch":"","delay_forced_js_event":"","delay_final_js_event":"","delay_js_dom_event":"","lazy_attribute":"data-lazy-stylesheet","core":{"js_params":{"sticky_debounce":200,"dir_aware":false,"panel_close_text":"Close Panel","refresh_forms_nonces":false},"v":"062af747c7b5","r_ajax_debug":false,"r_ajax_nonce":"29a8881159","r_ajax_url":"\/?reycore-ajax=%%endpoint%%","ajax_queue":true},"check_for_empty":[".--check-empty",".rey-mobileNav-footer",".rey-postFooter"],"optimized_dom":"1","el_pushback_fallback":"","header_fix_elementor_zindex":"","woocommerce":"1","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","rest_url":"https:\/\/helixternak.com\/wp-json\/rey\/v1","rest_nonce":"5abde9d97f","catalog_cols":"3","catalog_mobile_cols":"2","added_to_cart_text":"ADDED TO CART","added_to_cart_text_timeout":"10000","cannot_update_cart":"Couldn't update cart!","site_id":"0","after_add_to_cart":"popup","ajax_add_review":"1","ajax_add_review_reload_text":"Reloading page...","ajax_add_review_await_approval_text":"Your review is awaiting approval","js_params":{"select2_overrides":true,"scattered_grid_max_items":7,"scattered_grid_custom_items":[],"product_item_slideshow_nav":"dots","product_item_slideshow_disable_mobile":false,"product_item_slideshow_hover_delay":250,"scroll_top_after_variation_change":true,"scroll_top_after_variation_change_desktop":false,"ajax_search_letter_count":3,"ajax_search_allow_empty":false,"cart_update_threshold":1000,"cart_update_by_qty":true,"photoswipe_light":false,"customize_pdp_atc_text":true,"infinite_cache":true,"acc_animation":250,"acc_scroll_top":false,"acc_scroll_top_mobile_only":true},"currency_symbol":"Rp","price_format":"Rp\u00a0{{price}}","total_text":"Total:","price_thousand_separator":".","price_decimal_separator":".","price_decimal_precision":"0","header_cart_panel":{"apply_coupon_nonce":"cf9e331037","remove_coupon_nonce":"64fe9adc03","cart_fragment_tweak":true},"compare_after_add":"notice","compare_text_add":"Compare product","compare_text_rm":"Remove from list","quickview_only":"","quickview_mobile":"","updateCatalogPriceSingleAttribute":"","wishlist_after_add":"notice","wishlist_text_add":"Add to wishlist","wishlist_text_rm":"Remove from wishlist","wishlist_expire":"","wishlist_get_results":"","single_ajax_add_to_cart":"1","tabs_mobile_closed":"","search_texts":{"NO_RESULTS":"Sorry, but nothing matched your search terms. Please try again with some different keywords."},"ajax_search_only_title":"","ajax_search":"1","wishlist_type":"native","wishlist_empty_text":"Your Wishlist is currently empty.","module_extra_variation_images":"1","fixed_header_activation_point":"0","fixed_header_lazy":"3000","after_add_to_cart_popup_config":{"autoplay":false,"autoplay_speed":3000,"show_in_loop":true},"loop_ajax_variable_products":"1","loop_ajax_variable_supported":["bundle","variable"],"svg_icons_path":"https:\/\/helixternak.com?get_svg_icon=%%icon%%","svg_icons":{"close":"<svg role=\"img\" viewbox=\"0 0 110 110\" class=\"rey-icon rey-icon-close\"><g stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\" stroke-linecap=\"square\"><path d=\"M4.79541854,4.29541854 L104.945498,104.445498 L4.79541854,4.29541854 Z\" stroke=\"currentColor\" stroke-width=\"var(--stroke-width, 12px)\"><\/path><path d=\"M4.79541854,104.704581 L104.945498,4.55450209 L4.79541854,104.704581 Z\" stroke=\"currentColor\" stroke-width=\"var(--stroke-width, 12px)\"><\/path><\/g><\/svg>"},"checkout":{"error_text":"This information is required."}};</script><script type="afd9ab4008c71c618270cc23-text/javascript" id="reycore-elementor-frontend-js-extra" data-noptimize data-no-optimize="1" data-no-defer="1" data-pagespeed-no-defer>var reyElementorFrontendParams = {"compatibilities":{"column_video":true,"video_bg_play_on_mobile":true},"ajax_url":"https:\/\/helixternak.com\/wp-admin\/admin-ajax.php","ajax_nonce":"9c40924acf"};</script><link rel="stylesheet" id="wc-blocks-style-css" href="https://helixternak.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-8.9.2" type="text/css" media="all" />
+<script type="afd9ab4008c71c618270cc23-text/javascript" src="https://helixternak.com/wp-content/plugins/flying-press/assets/preload.min.js?ver=4.6.7" id="flying_press_preload-js"></script>
+<script type="afd9ab4008c71c618270cc23-text/javascript" src="https://helixternak.com/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=8.9.2" id="sourcebuster-js-js"></script>
+<script type="afd9ab4008c71c618270cc23-text/javascript" id="wc-order-attribution-js-extra">
+/* <![CDATA[ */
+var wc_order_attribution = {"params":{"lifetime":1.0e-5,"session":30,"ajaxurl":"https:\/\/helixternak.com\/wp-admin\/admin-ajax.php","prefix":"wc_order_attribution_","allowTracking":true},"fields":{"source_type":"current.typ","referrer":"current_add.rf","utm_campaign":"current.cmp","utm_source":"current.src","utm_medium":"current.mdm","utm_content":"current.cnt","utm_id":"current.id","utm_term":"current.trm","session_entry":"current_add.ep","session_start_time":"current_add.fd","session_pages":"session.pgs","session_count":"udata.vst","user_agent":"udata.uag"}};
+/* ]]> */
+</script>
+<script type="afd9ab4008c71c618270cc23-text/javascript" src="https://helixternak.com/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=8.9.2" id="wc-order-attribution-js"></script>
+<script type="afd9ab4008c71c618270cc23-text/javascript" src="https://helixternak.com/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-ecommerce-generic.js?ver=1.20.2" id="gtm4wp-ecommerce-generic-js"></script>
+<script type="afd9ab4008c71c618270cc23-text/javascript" src="https://helixternak.com/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-woocommerce.js?ver=1.20.2" id="gtm4wp-woocommerce-js"></script>
+<script type="afd9ab4008c71c618270cc23-text/javascript" id="wp-consent-api-js-extra">
+/* <![CDATA[ */
+var consent_api = {"consent_type":"","waitfor_consent_hook":"","cookie_expiration":"30","cookie_prefix":"wp_consent"};
+/* ]]> */
+</script>
+<script type="afd9ab4008c71c618270cc23-text/javascript" src="https://helixternak.com/wp-content/plugins/wp-consent-api/assets/js/wp-consent-api.min.js?ver=1.0.7" id="wp-consent-api-js"></script>
+<script type="afd9ab4008c71c618270cc23-text/javascript" id="wp-consent-api-integration-js-before">
+/* <![CDATA[ */
+window.wc_order_attribution.params.consentCategory = "marketing";
+/* ]]> */
+</script>
+<script type="afd9ab4008c71c618270cc23-text/javascript" src="https://helixternak.com/wp-content/plugins/woocommerce/assets/js/frontend/wp-consent-api-integration.min.js?ver=8.9.2" id="wp-consent-api-integration-js"></script>
+<script type="afd9ab4008c71c618270cc23-text/javascript" id="mailchimp-woocommerce-js-extra">
+/* <![CDATA[ */
+var mailchimp_public_data = {"site_url":"https:\/\/helixternak.com","ajax_url":"https:\/\/helixternak.com\/wp-admin\/admin-ajax.php","disable_carts":"","subscribers_only":"","language":"en","allowed_to_set_cookies":"1"};
+/* ]]> */
+</script>
+<script type="afd9ab4008c71c618270cc23-text/javascript" src="https://helixternak.com/wp-content/plugins/mailchimp-for-woocommerce/public/js/mailchimp-woocommerce-public.min.js?ver=4.0.2.07" id="mailchimp-woocommerce-js"></script>
+<script type="afd9ab4008c71c618270cc23-text/javascript" src="https://helixternak.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.21.3" id="elementor-pro-webpack-runtime-js"></script>
+<script type="afd9ab4008c71c618270cc23-text/javascript" src="https://helixternak.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.21.8" id="elementor-webpack-runtime-js"></script>
+<script type="afd9ab4008c71c618270cc23-text/javascript" src="https://helixternak.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.21.8" id="elementor-frontend-modules-js"></script>
+<script type="afd9ab4008c71c618270cc23-text/javascript" src="https://helixternak.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script type="afd9ab4008c71c618270cc23-text/javascript" src="https://helixternak.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0" id="regenerator-runtime-js"></script>
+<script type="afd9ab4008c71c618270cc23-text/javascript" src="https://helixternak.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="afd9ab4008c71c618270cc23-text/javascript" src="https://helixternak.com/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18" id="wp-hooks-js"></script>
+<script type="afd9ab4008c71c618270cc23-text/javascript" src="https://helixternak.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script type="afd9ab4008c71c618270cc23-text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="afd9ab4008c71c618270cc23-text/javascript" id="elementor-pro-frontend-js-before">
+/* <![CDATA[ */
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/helixternak.com\/wp-admin\/admin-ajax.php","nonce":"1cf6d1b9f4","urls":{"assets":"https:\/\/helixternak.com\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/helixternak.com\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"woocommerce":{"menu_cart":{"cart_page_url":"https:\/\/helixternak.com\/cart\/","checkout_page_url":"https:\/\/helixternak.com\/checkout\/","fragments_nonce":"91cfcf5b5c"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/helixternak.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+/* ]]> */
+</script>
+<script type="afd9ab4008c71c618270cc23-text/javascript" src="https://helixternak.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.21.3" id="elementor-pro-frontend-js"></script>
+<script type="afd9ab4008c71c618270cc23-text/javascript" src="https://helixternak.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>
+<script type="afd9ab4008c71c618270cc23-text/javascript" src="https://helixternak.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script type="afd9ab4008c71c618270cc23-text/javascript" id="elementor-frontend-js-before">
+/* <![CDATA[ */
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselWrapperAriaLabel":"Carousel | Horizontal scrolling: Arrow Left & Right","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.21.8","is_static":false,"experimentalFeatures":{"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"e_font_icon_svg":true,"container":true,"e_swiper_latest":true,"container_grid":true,"theme_builder_v2":true,"home_screen":true,"ai-layout":true,"landing-pages":true,"nested-elements":true,"e_lazyload":true,"form-submissions":true,"taxonomy-filter":true},"urls":{"assets":"https:\/\/helixternak.com\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper","settings":{"editorPreferences":[]},"kit":{"body_background_background":"classic","woocommerce_notices_elements":["wc_error","wc_message","wc_info"],"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":0,"title":"Page Not Found - Helix Alat Ternak","excerpt":""}};
+/* ]]> */
+</script>
+<script type="afd9ab4008c71c618270cc23-text/javascript" src="https://helixternak.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.21.8" id="elementor-frontend-js"></script>
+<script type="afd9ab4008c71c618270cc23-text/javascript" src="https://helixternak.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.21.3" id="pro-elements-handlers-js"></script>
+<script defer type="afd9ab4008c71c618270cc23-text/javascript" id="rey-combined-js" src="https://helixternak.com/wp-content/uploads/rey/scripts-518659a810.js?ver=2.9.1.1715795730"></script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="afd9ab4008c71c618270cc23-|49" defer></script></body>
+</html>
+
